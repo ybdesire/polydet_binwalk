@@ -54,8 +54,8 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 After the command is successfully run, the output is consistent with the previous section, and a _ Open the folder at the beginning, enter this folder, and you can see the subfiles extracted by binwalk:
 
 ```
-(env_polyglot_py38) root@aabbcc:/home/prjs/polyglot/binwalk# cd _EXE+HTML+PDF-1.pdf.extracted/
-(env_polyglot_py38) root@aabbcc:/home/prjs/polyglot/binwalk/_EXE+HTML+PDF-1.pdf.extracted# ll
+root@aabbcc:/home/prjs/polyglot/binwalk# cd _EXE+HTML+PDF-1.pdf.extracted/
+root@aabbcc:/home/prjs/polyglot/binwalk/_EXE+HTML+PDF-1.pdf.extracted# ll
 total 340
 drwxr-xr-x 2 root root  4096 Sep 22 18:59 ./
 drwxr-xr-x 3 root root  4096 Sep 22 18:59 ../
